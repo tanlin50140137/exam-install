@@ -10,3 +10,13 @@ yum install git
 2.安装exam系统 
 
 git clone https://github.com/tanlin50140137/exam-install.git && cd exam-install && tar zxf exam-1.0.tar.gz && ./install.sh
+
+3.上面安装成功后直接访问域名
+
+1）IP访问
+
+http://IP/exam
+
+2)域名访问
+
+http://www.xxx.com
